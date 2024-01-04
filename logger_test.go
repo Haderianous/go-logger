@@ -1,7 +1,7 @@
 package logger
 
 import (
-	"github.com/haderianous/errors/logger"
+	"github.com/haderianous/go-logger/logger"
 	"testing"
 )
 

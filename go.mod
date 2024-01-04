@@ -1,4 +1,4 @@
-module github.com/haderianous/errors
+module github.com/haderianous/go-logger
 
 go 1.19
 

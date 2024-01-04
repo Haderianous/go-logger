@@ -2,7 +2,7 @@ package logger
 
 import (
 	"fmt"
-	"github.com/haderianous/errors/writers"
+	"github.com/haderianous/go-logger/writers"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"os"
